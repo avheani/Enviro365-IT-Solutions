@@ -1,0 +1,4 @@
+username,email,password
+testuser123,testuser123@example.com,TestPassword123!
+johndoe,john.doe@test.com,SecurePass456!
+janedoe,jane.doe@test.com,MyPassword789!
